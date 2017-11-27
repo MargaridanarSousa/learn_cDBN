@@ -49,8 +49,7 @@ The command line options are:
                               instead of a forest, eventually producing a
                               structure with a lower score.
                               
- -ckg,---ckg                  boolean, if true learns cDBN structure,
-                              else, learns tDBN structure.
+ -ckg,---ckg                 learns cDBN structures.
                               
  -ind,---intra_ind            In-degree of the intra-slice transition 
                               network.
