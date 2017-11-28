@@ -56,3 +56,18 @@ The command line options are:
                                                        
 ```
 ## Example
+
+The following command:
+
+```
+java -jar cDBN.jar -i cDBN1_5000.csv -p 1 -s mdl -ckg -ind 2 -o output_new -d 
+
+```
+
+Produces the follwong structure:
+
+
+
+
+
+
