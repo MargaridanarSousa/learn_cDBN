@@ -64,7 +64,9 @@ Produces the follwing structure:
 
 ![network](output.png)
 
+## learn_bcDBN
 
+Is an update of learn_cDBN, that learns **BFS-consistent k-graph dynamic Bayesian networks**(bcDBN). The input file format and command line options are the same as the described for learn_cDBN.
 
 
 
