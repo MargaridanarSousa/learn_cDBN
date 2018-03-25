@@ -13,7 +13,7 @@ In [tDBN](http://josemonteiro.github.io/tDBN/) the input file format is describe
 
 By executing the following .jar file:
 ```
-$ java -jar learn_cDBN.jar
+$ java -jar cDBN.jar
 
 ```
 
@@ -66,7 +66,7 @@ Produces the follwing structure:
 
 ## learn_bcDBN
 
-learn_bcDBN is an update of learn_cDBN, that learns **BFS-consistent k-graph dynamic Bayesian networks**(bcDBN). The input file format and command line options are the same as the described for learn_cDBN.
+learn_bcDBN is an update of learn_cDBN, that learns **BFS-consistent k-graph dynamic Bayesian networks**(bcDBN). The input file format and command line options are the same as the described for learn_cDBN. The corrisponding jar file is learn_bcDBN.jar.
 
 
 
