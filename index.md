@@ -31,13 +31,16 @@ The command line options are:
                               
  -i,--inputFile <file>        Input CSV file to be used for network
                               learning.
+                              
  -m,--markovLag <int>         Maximum Markov lag to be considered, which
                               is the longest distance between connected
                               time-slices. Default is 1, allowing edges
                               from one preceding slice.
+                              
  -ns,--nonStationary          Learns a non-stationary network (one
                               transition network per time transition). By
                               default, a stationary DBN is learnt.
+                              
  -o,--outputFile <file>       Writes output to <file>. If not supplied,
                               output is written to terminal.
                               
