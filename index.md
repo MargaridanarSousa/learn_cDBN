@@ -1,6 +1,6 @@
 ## learn_bcDBN
 
-learn_bcDBN is a Java implementation of a learning algorithm for **consistent k-graph dynamic Bayesian networks**(cDBN) and **BFS-consistent k-graph dynamic Bayesian networks** . The program receives a data set with multivariate longitudinal categorical observations and outputs the optimal structure. The algorithm has polynomial time complexity in the number of attributes and observations. 
+learn_bcDBN is a Java implementation of a learning algorithm for **consistent k-graph dynamic Bayesian networks** (cDBN) and **BFS-consistent k-graph dynamic Bayesian networks** (bcDBN) . The program receives a data set with multivariate longitudinal categorical observations and outputs the optimal structure. The algorithm has polynomial time complexity in the number of attributes and observations. 
 
 If you use learn_bcDBN in your research please cite:
 
