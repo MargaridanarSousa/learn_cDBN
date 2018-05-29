@@ -7,9 +7,6 @@ If you use learn_bcDBN in your research please cite:
 José L Monteiro, Susana Vinga, and Alexandra M Carvalho. [Polynomial-time algorithm for learning
 optimal tree-augmented dynamic Bayesian networks.](http://auai.org/uai2015/proceedings/papers/329.pdf) In UAI, pages 622–631, 2015.
 
-M Sousa, AM Carvalho. [Polynomial-Time Algorithm for Learning Optimal BFS-Consistent Dynamic Bayesian Networks](http://www.mdpi.com/1099-4300/20/4/274) In Entropy 20 (4), page 274, 2018.
-
-
 ## Usage
 
 In [tDBN](http://josemonteiro.github.io/tDBN/) the input file format is described.
